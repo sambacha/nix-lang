@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+*.log
+*.logs
+*.zip
+*.tar.gz
+*.tar
+.cache/
+coverage/
+.tmp/
+.dev/
+_dev/
+*.key*
